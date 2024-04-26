@@ -1,0 +1,2 @@
+"Charging Safely: The Poetic Peril of Plugging In"
+The FBI advises consumers to avoid using public USB charging stations to prevent exposure to malware. Security experts warn against "juice jacking," which infects devices when plugged in. Hackers can access personal data, emails, and more through compromised ports. The FCC cautions about infected charging cables potentially given as gifts.
